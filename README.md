@@ -8,7 +8,7 @@ This Simple Library Management System. Talking about the features of this system
 
 The project file contains a python script (library.py). This is a simple console-based project which is very easy to use. Also, this project makes it easy for the library to keep records of books, borrowing and returning books in a digital way.
 
-Feature :
+Features :
 
 1.view books
 2.Issue books
