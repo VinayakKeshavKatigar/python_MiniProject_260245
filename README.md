@@ -1,5 +1,7 @@
 # python_MiniProject_260245
 
+[![CI](https://github.com/VinayakKeshavKatigar/python_MiniProject_260245/actions/workflows/main.yml/badge.svg)](https://github.com/VinayakKeshavKatigar/python_MiniProject_260245/actions/workflows/main.yml)
+
 #Simple Library Management System Using Python
 
 The Simple Library Management System is a simple project developed using Python. The project contains only the admin side. The admin side does all the management like adding and managing books, issued books, viewbooks, and so on. Thus, this is a digital way of management of the library system.
